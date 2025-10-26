@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","220uF","","","","","~"
+"D1,D2","2","LED","","","","","~"
+"Q1,Q2","2","2N3904","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
+"R1,R4","2","1K","","","","","~"
+"R2,R3","2","5K","","","","","~"
